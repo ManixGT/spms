@@ -1,10 +1,6 @@
----
-````markdown
 # 📚 Student Progress Management System
 
-A full-featured MERN (MongoDB, Express, React, Node.js) web application to track and manage student progress on **Codeforces**.
-
----
+## A full-featured MERN (MongoDB, Express, React, Node.js) web application to track and manage student progress on **Codeforces and LeetCode**.
 
 ## 🧾 Features
 
@@ -115,30 +111,3 @@ root/
 ├── scripts/          # Cron jobs and Codeforces data sync
 └── README.md         # Project description and documentation
 ```
-
-````
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Run MongoDB locally or connect to a cloud instance
-3. Configure environment variables in `.env`
-4. Start both client and server
-
-```bash
-# From root directory
-npm run dev
-```
-
----
-
-## 📬 Contact & Contribution
-
-Feel free to contribute via pull requests or raise issues for bugs and suggestions.
-
----
-## 📝 License
-This project is licensed under the MIT License.
-````
